@@ -1,5 +1,5 @@
 {
-    "name": "tianmiao/jwt-auth",
+    "name": "tianmiaos/jwt-auth",
     "autoload": {
         "psr-4": {
             "App\\": "app/",
