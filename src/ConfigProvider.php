@@ -9,7 +9,7 @@ declare(strict_types=1);
  * @contact  leonsw.com@gmail.com
  * @license  https://leonsw.com/LICENSE
  */
-namespace TianMiaos\JWTAuth;
+namespace Shiquan\JwtAuth;
 
 class ConfigProvider
 {

@@ -1,9 +1,8 @@
 {
-    "name": "tianmiaos/jwt-auth",
+    "name": "shiquan/jwt-auth",
     "autoload": {
         "psr-4": {
-            "App\\": "app/",
-            "TianMiaos\\JwtAuth\\": "src/"
+            "Shiquan\\JwtAuth\\": "src/"
         }
     },
     "authors": [
